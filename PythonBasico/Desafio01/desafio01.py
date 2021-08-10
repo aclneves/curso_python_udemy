@@ -4,7 +4,7 @@
 * Criar a variável com o ano atual (int)
 * Obter o ano de nascimento da pessoa (baseado na idade e no ano atual)
 * Obter o IMC da pessoa com 2 casas decimais (peso e altura da pessoa)
-* Exibir o texto com todos os valors na tela usando F-Strings
+* Exibir o texto com todos os valors na tela usando F-aula03
 """
 import datetime
 
